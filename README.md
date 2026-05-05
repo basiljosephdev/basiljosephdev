@@ -137,9 +137,10 @@ GUI app simulating OS scheduling — priority queues, time slicing, Pomodoro tim
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=basiljosephdev&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e0c050&icon_color=e0c050&text_color=aaaaaa&border_color=333333&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://stats.dooboo.io/api?username=basiljosephdev&show_icons=true&theme=dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiljosephdev&layout=compact&langs_count=7&theme=dark&bg_color=0d0d0d&title_color=e0c050&text_color=aaaaaa&border_color=333333&cache_seconds=1800"/>
+<img height="180em" src="https://stats.dooboo.io/api/top-langs?username=basiljosephdev&layout=compact&theme=dark"/>
+
 </div>
 
 <div align="center">
