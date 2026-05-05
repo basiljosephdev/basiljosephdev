@@ -134,13 +134,6 @@ GUI app simulating OS scheduling — priority queues, time slicing, Pomodoro tim
 ---
 
 ## `> git log --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=basiljosephdev&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e0c050&icon_color=e0c050&text_color=aaaaaa&border_color=333333&cache_seconds=86400"/>
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=basiljosephdev&theme=dark&background=0d0d0d&border=333333&ring=e0c050&fire=e0c050&currStreakLabel=e0c050&sideLabels=aaaaaa&dates=666666)](https://git.io/streak-stats)
