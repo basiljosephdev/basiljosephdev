@@ -1,0 +1,106 @@
+<svg viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" width="900" height="120">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f1e3a"/>
+      <stop offset="50%" style="stop-color:#0d0d1a"/>
+      <stop offset="100%" style="stop-color:#000000"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e0c050;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#e0c050;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#e0c050;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#e0c050;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffe066"/>
+      <stop offset="50%" style="stop-color:#e0c050"/>
+      <stop offset="100%" style="stop-color:#b8922a"/>
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <mask id="fadeMask">
+      <linearGradient id="fadeLR" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:white;stop-opacity:0"/>
+        <stop offset="10%" style="stop-color:white;stop-opacity:1"/>
+        <stop offset="90%" style="stop-color:white;stop-opacity:1"/>
+        <stop offset="100%" style="stop-color:white;stop-opacity:0"/>
+      </linearGradient>
+      <rect width="900" height="120" fill="url(#fadeLR)"/>
+    </mask>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="120" fill="url(#bgGrad)"/>
+
+  <!-- Grid lines -->
+  <g opacity="0.05" mask="url(#fadeMask)">
+    <line x1="150" y1="0" x2="150" y2="120" stroke="#e0c050" stroke-width="0.5"/>
+    <line x1="300" y1="0" x2="300" y2="120" stroke="#e0c050" stroke-width="0.5"/>
+    <line x1="450" y1="0" x2="450" y2="120" stroke="#e0c050" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="120" stroke="#e0c050" stroke-width="0.5"/>
+    <line x1="750" y1="0" x2="750" y2="120" stroke="#e0c050" stroke-width="0.5"/>
+    <line x1="0" y1="40" x2="900" y2="40" stroke="#e0c050" stroke-width="0.5"/>
+    <line x1="0" y1="80" x2="900" y2="80" stroke="#e0c050" stroke-width="0.5"/>
+  </g>
+
+  <!-- Gold top border -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)" opacity="0.9"/>
+
+  <!-- Scanning line -->
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#lineGrad)" opacity="0.4">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,118;0,0" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.5;0.5;0" keyTimes="0;0.1;0.9;1" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Decorative lines flanking text -->
+  <line x1="60" y1="62" x2="230" y2="62" stroke="#e0c050" stroke-width="0.5" opacity="0.35"/>
+  <line x1="670" y1="62" x2="840" y2="62" stroke="#e0c050" stroke-width="0.5" opacity="0.35"/>
+
+  <!-- Pulsing dots -->
+  <circle cx="232" cy="62" r="2.5" fill="#e0c050" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="668" cy="62" r="2.5" fill="#e0c050" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Quote text -->
+  <text
+    x="450" y="67"
+    text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-weight="400"
+    font-size="14"
+    letter-spacing="2"
+    fill="url(#goldGrad)"
+    filter="url(#softGlow)"
+  >
+    The night is darkest just before the deploy.
+  </text>
+
+  <!-- Floating particles -->
+  <circle cx="120" cy="90" r="1" fill="#e0c050" opacity="0">
+    <animate attributeName="opacity" values="0;0.5;0" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="90;75;90" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="30" r="1" fill="#e0c050" opacity="0">
+    <animate attributeName="opacity" values="0;0.4;0" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;18;30" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="100" r="1.2" fill="#e0c050" opacity="0">
+    <animate attributeName="opacity" values="0;0.3;0" dur="3.5s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="100;88;100" dur="3.5s" begin="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Corner brackets bottom-left -->
+  <line x1="20" y1="100" x2="50" y2="100" stroke="#e0c050" stroke-width="1" opacity="0.5"/>
+  <line x1="20" y1="100" x2="20" y2="70" stroke="#e0c050" stroke-width="1" opacity="0.5"/>
+  <!-- Corner brackets bottom-right -->
+  <line x1="880" y1="100" x2="850" y2="100" stroke="#e0c050" stroke-width="1" opacity="0.5"/>
+  <line x1="880" y1="100" x2="880" y2="70" stroke="#e0c050" stroke-width="1" opacity="0.5"/>
+</svg>
