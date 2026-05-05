@@ -1,235 +1,121 @@
 <div align="center">
-
-<!-- Animated header with custom gradient text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d6efd,100:00D4FF&height=200&section=header&text=Basil%20Joseph&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=App%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=22" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f3460&height=220&section=header&text=Basil%20Joseph&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=e0c050&desc=App%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=20&descColor=aaaaaa" width="100%"/>
 </div>
-
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║   Building apps that solve real problems, not just   ║
-║         projects — but products.  ✦                  ║
-╚══════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+%26+React+Native+Developer;Full-Stack+with+MERN+Stack;VIT+Chennai+%7C+GPA+9.16+%2F+10;Open+to+App+Dev+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=E0C050&center=true&vCenter=true&width=600&lines=Flutter+%26+React+Native+Developer;Full-Stack+Engineer+%7C+MERN;Building+apps+that+matter.;Open+to+App+Dev+Internships+%F0%9F%9A%80)
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basil-joseph)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basiljosephdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basil.joseph2024@vitstudent.ac.in)
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%23e0c050.svg?style=for-the-badge&logo=linkedin&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-%23e0c050.svg?style=for-the-badge&logo=github&logoColor=000000)
+![Gmail](https://img.shields.io/badge/Gmail-%23e0c050.svg?style=for-the-badge&logo=gmail&logoColor=000000)
 </div>
-
 ---
-
-## 🧑‍💻 About Me
-
+<div align="center">
+```
+  ██████╗  █████╗ ███████╗██╗██╗         ██╗ ██████╗ ███████╗███████╗██████╗ ██╗  ██╗
+  ██╔══██╗██╔══██╗██╔════╝██║██║         ██║██╔═══██╗██╔════╝██╔════╝██╔══██╗██║  ██║
+  ██████╔╝███████║███████╗██║██║         ██║██║   ██║███████╗█████╗  ██████╔╝███████║
+  ██╔══██╗██╔══██║╚════██║██║██║         ██║██║   ██║╚════██║██╔══╝  ██╔═══╝ ██╔══██║
+  ██████╔╝██║  ██║███████║██║███████╗    ██║╚██████╔╝███████║███████╗██║     ██║  ██║
+  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝   ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝
+```
+"It's not who I am underneath, but what I build that defines me."
+</div>
+---
+`> whoami`
 ```yaml
-name: Basil Joseph
-location: VIT Chennai, India
-degree: B.Tech CSE (2024–2028)
-gpa: 9.16 / 10
-
-focus:
-  primary: Cross-platform Mobile Development
-  secondary: Full-Stack Web (MERN)
-  exploring: System Design & Real-Time Architecture
-
-currently:
-  - building: Scalable mobile & full-stack apps
-  - learning: Advanced backend patterns
-  - leading: Design Dept @ Robotics Club
-
-philosophy: "Build things that solve real problems — not just projects, but products."
+name     : Basil Joseph
+base     : VIT Chennai, India
+role     : App Developer & Full-Stack Engineer
+focus    : Flutter · React Native · MERN Stack
+mission  : Turn real-world problems into working products
+status   : [ OPEN TO INTERNSHIPS ]
 ```
-
 ---
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+`> tech --stack`
+📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%23e0c050.svg?style=for-the-badge&logo=Flutter&logoColor=000000)
+![Dart](https://img.shields.io/badge/Dart-%23e0c050.svg?style=for-the-badge&logo=dart&logoColor=000000)
+![React Native](https://img.shields.io/badge/React_Native-%23e0c050.svg?style=for-the-badge&logo=react&logoColor=000000)
+🌐 Frontend
+![React](https://img.shields.io/badge/React-%23e0c050.svg?style=for-the-badge&logo=react&logoColor=000000)
+![Vite](https://img.shields.io/badge/Vite-%23e0c050.svg?style=for-the-badge&logo=vite&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-%23e0c050.svg?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-%23e0c050.svg?style=for-the-badge&logo=css3&logoColor=000000)
+⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-%23e0c050.svg?style=for-the-badge&logo=node.js&logoColor=000000)
+![Express](https://img.shields.io/badge/Express-%23e0c050.svg?style=for-the-badge&logo=express&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23e0c050.svg?style=for-the-badge&logo=mongodb&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-%23e0c050.svg?style=for-the-badge&logo=mysql&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23e0c050.svg?style=for-the-badge&logo=postgresql&logoColor=000000)
+🧠 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23e0c050.svg?style=for-the-badge&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-%23e0c050.svg?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-%23e0c050.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-%23e0c050.svg?style=for-the-badge&logo=cplusplus&logoColor=000000)
+🧰 Tools
+![Git](https://img.shields.io/badge/Git-%23e0c050.svg?style=for-the-badge&logo=git&logoColor=000000)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%23e0c050.svg?style=for-the-badge&logo=android-studio&logoColor=000000)
+![Postman](https://img.shields.io/badge/Postman-%23e0c050.svg?style=for-the-badge&logo=postman&logoColor=000000)
+![Vercel](https://img.shields.io/badge/Vercel-%23e0c050.svg?style=for-the-badge&logo=vercel&logoColor=000000)
+![Figma](https://img.shields.io/badge/Figma-%23e0c050.svg?style=for-the-badge&logo=figma&logoColor=000000)
 ---
-
-## 🚀 Featured Projects
-
+`> ls ./projects`
 <table>
 <tr>
-<td width="50%">
-
-### 🩺 Carelytics — Healthcare App
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Cross-platform healthcare app with **role-based dashboards** and real-time data sync. Secure REST APIs for sensitive patient data.
-
-> 🔒 Secure · ⚡ Real-time · 📱 Cross-platform
-
+<td width="50%" valign="top">
+🩺 Carelytics
+> *Healthcare · Flutter · Node.js · MongoDB*
+Cross-platform app with role-based dashboards and real-time data synchronization. Secure REST APIs for patient data handling.
+`Flutter` `Dart` `Node.js` `Express` `MongoDB`
 </td>
-<td width="50%">
-
-### 🩸 REDLink — Blood Donation Platform
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Emergency platform connecting hospitals and donors with **real-time request handling** and multi-role portals.
-
-> 🏥 Admin · 🩸 Donor · 🏨 Hospital portals
-
+<td width="50%" valign="top">
+🩸 REDLink
+> *Emergency · Node.js · MySQL · JavaScript*
+Real-time system connecting hospitals and donors. Multi-role portals — Admin, Donor, Hospital — with live notifications.
+`Node.js` `Express` `MySQL` `JavaScript`
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 📊 AcadTrack — Performance Analyzer
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Full-stack MERN app for academic performance tracking. Deployed on **Vercel + Render** with role-based dashboards.
-
-> 📈 Analytics · 🎓 Role-based · ☁️ Cloud-deployed
-
+<td width="50%" valign="top">
+📊 AcadTrack
+> *EdTech · React · Node.js · MongoDB*
+Full-stack performance tracker with role-based dashboards. Deployed on Vercel + Render with full API integration.
+`React` `Node.js` `Express` `MongoDB`
 </td>
-<td width="50%">
-
-### ⏱️ Smart Task Scheduler
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-306998?style=flat-square&logo=python&logoColor=white)
-
-GUI-based productivity app simulating **OS scheduling concepts** — priority queues, time slicing, Pomodoro timers.
-
-> 🖥️ OS Concepts · 🔔 Notifications · ⚙️ Non-blocking
-
+<td width="50%" valign="top">
+⏱️ Smart Task Scheduler
+> *Productivity · Python · Tkinter*
+GUI app simulating OS scheduling — priority queues, time slicing, Pomodoro timer with real-time notifications.
+`Python` `Tkinter`
 </td>
 </tr>
 </table>
-
 ---
-
-## 📊 GitHub Stats
-
+`> git log --stats`
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=basiljosephdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiljosephdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=basiljosephdev&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e0c050&icon_color=e0c050&text_color=aaaaaa&border_color=333333&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiljosephdev&layout=compact&langs_count=7&theme=dark&bg_color=0d0d0d&title_color=e0c050&text_color=aaaaaa&border_color=333333"/>
 </div>
-
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=basiljosephdev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=basiljosephdev&theme=dark&background=0d0d0d&border=333333&ring=e0c050&fire=e0c050&currStreakLabel=e0c050&sideLabels=aaaaaa&dates=666666)
 </div>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=basiljosephdev&theme=onestar&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 What I'm Up To
-
+`> cat ./current_ops`
 ```
-🔨  Building  →  Scalable mobile & full-stack applications
-📚  Learning  →  System design & advanced backend patterns
-🚀  Exploring →  Real-time systems & production architectures
-🎨  Leading   →  Design Head @ Robotics Club, VIT Chennai
+  [ BUILDING  ]  →  Scalable mobile & full-stack applications
+  [ LEARNING  ]  →  System design & advanced backend patterns
+  [ EXPLORING ]  →  Real-time systems & production architectures
+  [ LEADING   ]  →  Design Head @ Robotics Club, VIT Chennai
+  [ ORGANIZED ]  →  Robotica 2025 — Large-scale robotics event
 ```
-
 ---
-
-## 🏅 Leadership & Activities
-
-<table>
-<tr>
-<td>
-
-**🎨 Design Department Head** — *Robotics Club, VIT Chennai* `2024–Present`
-
-- Leading UI/branding initiatives for all club activities
-- Mentoring team in Figma & Canva design systems
-- Managing event collaterals and visual identity
-
-</td>
-<td>
-
-**🤖 Event Organizer** — *Robotica 2025* `2025`
-
-- Coordinated logistics for a large-scale robotics event
-- Managed registrations & multi-team volunteer coordination
-- Operated under high-pressure, fast-moving environments
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Score | Year |
-|--------|-------------|-------|------|
-| B.Tech CSE | VIT Chennai | GPA: **9.16 / 10** | 2024–2028 |
-| Class XII (CBSE) | Saint Peter's Sr. Secondary, Kerala | **94.2%** | 2024 |
-| Class X (CBSE) | Saint Peter's Sr. Secondary, Kerala | **96.8%** | 2022 |
-
----
-
 <div align="center">
-
-### 💬 Let's Connect & Build Something Great!
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basil-joseph)
-[![Email](https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basil.joseph2024@vitstudent.ac.in)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basiljosephdev)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=basiljosephdev&label=Profile%20Views&color=0d6efd&style=flat)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0D1117&height=120&section=footer" width="100%"/>
-
+`> ./connect.sh`
+![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%23e0c050.svg?style=for-the-badge&logo=linkedin&logoColor=000000)
+![Email](https://img.shields.io/badge/Send_a_Mail-%23e0c050.svg?style=for-the-badge&logo=gmail&logoColor=000000)
+![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23e0c050.svg?style=for-the-badge&logo=github&logoColor=000000)
+<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=basiljosephdev&label=PROFILE+VIEWS&color=e0c050&style=flat-square)
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:000000&height=140&section=footer&text=The+night+is+darkest+just+before+the+deploy.&fontSize=16&fontColor=e0c050&fontAlignY=55" width="100%"/>
 </div>
